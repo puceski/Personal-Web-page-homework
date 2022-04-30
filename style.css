@@ -1,0 +1,121 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.header {
+    min-height: 100vh;
+    width: 100%;
+    background-image: url(landing-page.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.text-box {
+    margin: 350px auto;
+    text-align: center;
+    color: white;
+}
+
+.text-box h1 {
+    font-size: 50px;
+}
+
+.text-box p {
+    font-size: 26px;
+}
+
+.nb-text {
+    color: white !important;
+    font-weight: bold;
+}
+
+.navbar-brand {
+    font-size: 30px;
+    margin: 15px 30px;
+}
+
+.nav-link {
+    color: white !important;
+    font-size: 20px;
+    padding: 20px !important;
+}
+
+.nav-link:hover {
+color: rgb(0, 187, 255) !important;
+transition: 0.5s;
+}
+
+.name {
+    color:rgb(0, 187, 255) !important; ;
+}
+
+.active {
+    color:rgb(0, 187, 255) !important;
+}
+
+.col {
+    text-align: left;
+}
+
+.about {
+    margin-top: 140px !important;
+}
+
+.contact {
+    margin-top: 60px !important;
+}
+
+.gallery{
+    margin-top: 30px !important;
+}
+
+.imgme {
+    width: 500px;
+    border-bottom-left-radius: 180px 180px;
+}
+
+.custom-btn {
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+}
+
+.custom-btn:hover {
+    background-color: transparent;
+    color: black;
+    transition: 0.5s;
+}
+
+.custom-btnn {
+    width: 150px;
+    height: 50px;
+}
+
+.custom-btnn:hover {
+    background-color: transparent;
+    color: black;
+    transition: 0.5s;
+}
+
+.contact-h1 {
+    text-align: center;
+}
+
+.contact-info {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.enquires {
+    text-align: center;
+}
+
+.contactz {
+    text-align: center;
+}
+
+.navbar-light .navbar-toggler-icon {
+    background-image:url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%280, 0, 0, 1%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
